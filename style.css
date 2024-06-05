@@ -1,0 +1,39 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #dfb386;
+}
+
+a {
+  text-decoration: inherit;
+  color: #fefefe;
+}
+
+img {
+  max-width: 100%;
+}
+
+aside {
+  background-color: #333;
+  color: #fefefe;
+  background-color: #c09173;
+}
+
+section.first {
+  background-color: #febade;
+  color: #5f4d4d;
+}
+
+section.second {
+  background-color: #7d8556;
+  color: #b49a8d;
+}
+
+section.third {
+  background-color: #32b3ea;
+  color: #fefefe;
+}
+
+section.fourth {
+  background-color: #b49a8d;
+  color: #127dab;
+}
