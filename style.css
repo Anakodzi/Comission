@@ -16,6 +16,11 @@ aside {
   background-color: #333;
   color: #fefefe;
   background-color: #c09173;
+  width: 130px;
+}
+
+main {
+  padding-left: 130px;
 }
 
 section.first {
@@ -36,4 +41,5 @@ section.third {
 section.fourth {
   background-color: #b49a8d;
   color: #127dab;
+  height: 50vh;
 }
